@@ -1,6 +1,6 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<h1>My example title</h1>
+<h1>Professional README Generator</h1>
 <!-- Table of content -->
 <h2>Table of contents</h2>
 
@@ -15,18 +15,18 @@
 <br>
 
 <h1>Description</h1>
-<p>Example description</p>
+<p>This application allows the users to quickly create professional README.MD files for projects from command line terminal with the use of npm Inquirer package.  </p>
 <h1>Installation</h1>
-<p>Example installation instructions</p>
+<p>Install Inquirer.js before running the application</p>
 <br>
 <h1>Usage</h1>
-<p>Example usage info</p>
+<p>Please see video demo at: </p>
 <br>
 <h1>Contributing</h1>
-<p>Example contribution guidelines</p>
+<p>Open to contribution. Pull requests welcome.</p>
 <br>
 <h1>Tests</h1>
-<p>Example tests instructions
+<p>N/A
 <br>
 <h1>Questions</h1>
 <p><span>My Github profile: </span><a href="https://github.com/klin4994" class="col-12">https://github.com/klin4994</a></p>
