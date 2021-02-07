@@ -1,13 +1,49 @@
-<h1>Description</h1>
-This time planning application allows a user to save events for time blocks (9am to 5pm) in a day. Moment.js was integrated in the script to track current time.
-
-
-<h1>Link</h1>
-https://klin4994.github.io/Daily-Planner/
-
-<h1>Screenshot</h1>
-<p align="center"> 
+<!-- vscode-markdown-toc -->
+* 1. [Summary](#Summary)
+* 2. [Features](#Features)
+* 3. [Usage](#Usage)
+* 4. [Configuration](#Configuration)
+* 5. [Example](#Example)
+* 6. [About](#About)
+* 7. [Roadmap](#Roadmap)
+* 8. [yo](#yo)
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+##  1. <a name='Summary'></a>Summary 
+##  2. <a name='Features'></a>Features 
+##  3. <a name='Usage'></a>Usage
+##  4. <a name='Configuration'></a>Configuration 
+##  5. <a name='Example'></a>Example 
+##  6. <a name='About'></a>About
+##  7. <a name='Roadmap'></a>Roadmap
+##  1. <a name='Summary'></a>Summary 
+##  2. <a name='Features'></a>Features 
+##  3. <a name='Usage'></a>Usage
+##  4. <a name='Configuration'></a>Configuration 
+##  5. <a name='Example'></a>Example 
+##  6. <a name='About'></a>About
+##  7. <a name='Roadmap'></a>yo
+<h1>${answers.title}</h1>
 <br>
+
+<h1>Installation</h1>
+<p>${answers.installation}</p>
+<br>
+<h1>Usage</h1>
+<p>${answers.usage}</p>
+<br>
+<h1>Contributing</h1>
+<p>${answers.contributing}</p>
+<br>
+<h1>Tests</h1>
+<p>${answers.tests}
+<br>
+<h1>Questions</h1>
+<p>My GitHub profile: ${answer.profile}</p>
+<p>My email address: ${answer.email}</p>
 <img src="assetsScreenshot of the application.PNG" alt="Application Screenshot">
 </p>
 
