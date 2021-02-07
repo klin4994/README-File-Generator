@@ -29,7 +29,7 @@ inquirer
     },
     {
       type: 'input',
-      message: 'Usage infromation: ',
+      message: 'Usage information: ',
       name: 'usage',
     },
     {
