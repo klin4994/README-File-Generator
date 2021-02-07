@@ -75,6 +75,8 @@ const generateHTML = (answers,licenseDisplay) =>
 
 <br>
 
+<h1>Description</h1>
+<p>${answers.description}</p>
 <h1>Installation</h1>
 <p>${answers.installation}</p>
 <br>
