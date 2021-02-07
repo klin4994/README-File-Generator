@@ -98,7 +98,7 @@ const generateHTML = (answers,licenseDisplay) =>
 <br>
 <h1>Questions</h1>
 <p><span>My Github profile: </span><a href="https://github.com/${answers.profile}" class="col-12">https://github.com/${answers.profile}</a></p>
-<p><span>My email address: </span><a href = "mailto: ${answers.email}">${answers.email}</a></p>
+<p><span>My Email address: </span><a href = "mailto: ${answers.email}">${answers.email}</a></p>
 </p>
 `
 
