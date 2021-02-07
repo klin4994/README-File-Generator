@@ -11,6 +11,11 @@ inquirer
     },
     {
       type: 'input',
+      message: 'Project Description: ',
+      name: 'description',
+    },
+    {
+      type: 'input',
       message: 'Installation instructions: ',
       name: 'installation',
     },
