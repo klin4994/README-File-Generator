@@ -75,6 +75,13 @@ const generateHTML = (answers,licenseDisplay) =>
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
+##  1. <a name='Description'></a>Description
+##  2. <a name='Installation'></a>Installation 
+##  3. <a name='Usage'></a>Usage 
+##  4. <a name='Contributing'></a>Contributing
+##  5. <a name='Test'></a>Test 
+##  6. <a name='Questions'></a>Questions 
+
 <br>
 
 <h1>Installation</h1>
@@ -90,7 +97,7 @@ const generateHTML = (answers,licenseDisplay) =>
 <p>${answers.tests}
 <br>
 <h1>Questions</h1>
-<p><span>My Github profile: </span><a href="https://github.com/${answers.profile}" class="col-12">https://github.com/${answers.github}</a></p>
+<p><span>My Github profile: </span><a href="https://github.com/${answers.profile}" class="col-12">https://github.com/${answers.profile}</a></p>
 <p><span>My email address: </span><a href = "mailto: ${answers.email}">${answers.email}</a></p>
 </p>
 `
