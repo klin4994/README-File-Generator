@@ -64,12 +64,13 @@ const generateHTML = (answers,licenseDisplay) =>
 
 <h1>${answers.title}</h1>
 <!-- Table of content -->
+<h2>Table of contents</h2>
 
 * 1. [Description](#Description)
 * 2. [Installation](#Installation)
 * 3. [Usage](#Usage)
 * 4. [Contributing](#Contributing)
-* 5. [Test](#Test)
+* 5. [Tests](#Tests)
 * 6. [Questions](#Questions) 
 
 
