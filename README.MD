@@ -20,7 +20,7 @@
 <p>Install Inquirer.js before running the application</p>
 <br>
 <h1>Usage</h1>
-<p>Please see video demo at: </p>
+<p>Please see video demo at: https://drive.google.com/file/d/1hA25ereBdm3XYZKLGg20RnHZpsQw88iS/view?usp=sharing</p>
 <br>
 <h1>Contributing</h1>
 <p>Open to contribution. Pull requests welcome.</p>
