@@ -18,7 +18,7 @@
 <p>Install Inquirer.js npm package before running the application.</p>
 <br>
 <h1>Demo</h1>
-<p>Please see video demo at: https://drive.google.com/file/d/1hA25ereBdm3XYZKLGg20RnHZpsQw88iS/view?usp=sharing</p>
+<p>Please view video demo at: https://drive.google.com/file/d/1hA25ereBdm3XYZKLGg20RnHZpsQw88iS/view?usp=sharing</p>
 <br>
 <br>
 <h1>Questions</h1>
