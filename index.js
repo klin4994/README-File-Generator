@@ -1,6 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
+// Questions for user inputs
 const promptUser = () => 
 inquirer
   .prompt([
@@ -58,7 +59,7 @@ inquirer
 
  
 
-// Function to generate HTML contents
+// Function to generate HTML contents on README file
 const generateHTML = (answers,licenseDisplay) =>
 `${licenseDisplay}
 

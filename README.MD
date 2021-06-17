@@ -23,5 +23,5 @@
 <br>
 <h1>Questions</h1>
 <p><span>My Github profile: </span><a href="https://github.com/kvlin" class="col-12">https://github.com/kvlin</a></p>
-<p><span>My Email address: </span><a href = "mailto:kevlin129@hotmail.com">j</a></p>
+<p><span>My Email address: </span><a href = "mailto:kevlin129@hotmail.com">kvlin</a></p>
 </p>
