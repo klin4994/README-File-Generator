@@ -52,9 +52,7 @@ inquirer
       type: 'input',
       message: 'Your Email address: ',
       name: 'email',
-    },
-    
-    
+    }, 
   ]);
 
  
