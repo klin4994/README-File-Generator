@@ -49,7 +49,7 @@ inquirer
     },
     {
       type: 'input',
-      message: 'Your email address: ',
+      message: 'Your Email address: ',
       name: 'email',
     },
     
@@ -58,7 +58,7 @@ inquirer
 
  
 
-
+// Function to generate HTML contents
 const generateHTML = (answers,licenseDisplay) =>
 `${licenseDisplay}
 
@@ -96,7 +96,7 @@ const generateHTML = (answers,licenseDisplay) =>
 </p>
 `
 
-
+// Starting the program
 const init = () => {
     promptUser().then((answers) => {
         switch (answers.license){
@@ -121,7 +121,7 @@ const init = () => {
         }
         try {
             const html = generateHTML(answers,license);
-            fs.writeFileSync('README.MD', html);
+            fs.writeFileSync('READMEHW13.MD', html);
             console.log('Your README.MD file has been successfully created');
         }
         catch (error) {
