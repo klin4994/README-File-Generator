@@ -40,8 +40,8 @@ inquirer
     },
     {
       type: 'input',
-      message: 'Tests instructions: ',
-      name: 'tests',
+      message: 'Relevant links: ',
+      name: 'links',
     },
     {
       type: 'input',
@@ -65,12 +65,12 @@ const generateHTML = (answers,licenseDisplay) =>
 <!-- Table of content -->
 <h2>Table of contents</h2>
 
-* 1. [Description](#Description)
-* 2. [Installation](#Installation)
-* 3. [Usage](#Usage)
-* 4. [Contributing](#Contributing)
-* 5. [Tests](#Tests)
-* 6. [Questions](#Questions) 
+1. [Description](#Description)
+2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [Links](#Links)
+5. [Contributing](#Contributing)
+6. [Questions](#Questions) 
 
 
 <br>
@@ -83,11 +83,11 @@ const generateHTML = (answers,licenseDisplay) =>
 <h1>Usage</h1>
 <p>${answers.usage}</p>
 <br>
+<h1>Links</h1>
+<p>${answers.link}
+<br>
 <h1>Contributing</h1>
 <p>${answers.contributing}</p>
-<br>
-<h1>Tests</h1>
-<p>${answers.tests}
 <br>
 <h1>Questions</h1>
 <p><span>My Github profile: </span><a href="https://github.com/${answers.profile}" class="col-12">https://github.com/${answers.profile}</a></p>
